@@ -22,7 +22,7 @@ if not exist "%UPluginDir%\UNACardboardVR.uplugin" (
 	exit /b 1
 )
 
-mkdir "%PrjRoot%\UE4CardboardDemo\Plugins"
-mklink /J "%PrjRoot%\UE4CardboardDemo\Plugins\UNACardboardVR" "%UPluginDir%"
+mkdir "%PrjRoot%\CardboardVRDemo\Plugins"
+mklink /J "%PrjRoot%\CardboardVRDemo\Plugins\UNACardboardVR" "%UPluginDir%"
 
 exit /b 0

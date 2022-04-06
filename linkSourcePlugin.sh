@@ -19,5 +19,5 @@ if [ ! -f "$UPluginDir/UNACardboardVR.uplugin" ]; then
 	exit 1
 fi
 
-mkdir "$DIRNAME/UE4CardboardDemo/Plugins"
-ln -s "$UPluginDir" "$DIRNAME/UE4CardboardDemo/Plugins/UNACardboardVR"
+mkdir "$DIRNAME/CardboardVRDemo/Plugins"
+ln -s "$UPluginDir" "$DIRNAME/CardboardVRDemo/Plugins/UNACardboardVR"
