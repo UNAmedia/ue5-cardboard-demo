@@ -11,9 +11,9 @@ Specifically, this is a porting to Unreal Engine of the official new Google Card
 
 *NOTE: this product is not made by, or affiliated with, Google Inc in any way.*
 
-[![Integration of the official Google Cardboard SDK for iOS and Android](https://cdn1.epicgames.com/ue/product/Screenshot/1officialSDKhouse-1920x1080-6b177cb1a1c209ce2621d1ba3c9df7f4.png?resize=1&w=300)](https://unrealengine.com/marketplace/cardboard-vr)
-[![Enable the plugin and your app is ready to run on Google Cardboard viewers](https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-02-1920x1080-a68211c3d56b6571a35bc5776f78660a.png?resize=1&w=300)](https://unrealengine.com/marketplace/cardboard-vr)
-[![Ready-to-use customizable native UI overlay to toggle and configure the stereo mode](https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-03-1920x1080-aebc5bf737219b772aec8fa801986e8e.png?resize=1&w=300)](https://unrealengine.com/marketplace/cardboard-vr)
+[![Integration of the official Google Cardboard SDK for iOS and Android](docs/mkt-1_officialSDK_house-small.jpg)](https://unrealengine.com/marketplace/cardboard-vr)
+[![Enable the plugin and your app is ready to run on Google Cardboard viewers](docs/mkt-2_plugAndPlay_fps-small.jpg)](https://unrealengine.com/marketplace/cardboard-vr)
+[![Ready-to-use customizable native UI overlay to toggle and configure the stereo mode](docs/mkt-3_readyToUse_tetris_small.jpg)](https://unrealengine.com/marketplace/cardboard-vr)
 
 ## Branches
 
@@ -27,7 +27,11 @@ Marketplace: <https://unrealengine.com/marketplace/cardboard-vr>
 
 Documentation: <https://www.unamedia.com/ue5-cardboard/api/>
 
-Support thread: <https://forums.unrealengine.com/unreal-engine/marketplace/1849407-cardboard-vr-google-cardboard-vr-headsets-on-ios-and-android-integrating-the-official-google-sdk>
+Discord server: <https://discord.gg/PuAyhDctHp>
+
+[![Join the Discord server](https://invidget.switchblade.xyz/PuAyhDctHp)](https://discord.gg/PuAyhDctHp)
+
+Forum thread: <https://forums.unrealengine.com/unreal-engine/marketplace/1849407-cardboard-vr-google-cardboard-vr-headsets-on-ios-and-android-integrating-the-official-google-sdk>
 
 ## UE5 Cardboard VR - plugin
 
