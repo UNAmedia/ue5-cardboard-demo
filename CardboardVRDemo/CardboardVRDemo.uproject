@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -359,15 +359,6 @@
 			"Name": "UNACardboardVR",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b8f0c6beecd5418ea7aa4d5e615b285b"
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
 		}
 	]
 }
